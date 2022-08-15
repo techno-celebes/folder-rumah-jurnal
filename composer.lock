@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6558f74828bca9ebecac73d90cea4b1a",
+    "content-hash": "c7bcfd36129b9911819f1b82383d572b",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4563,6 +4563,37 @@
                 }
             ],
             "time": "2022-07-20T13:00:38+00:00"
+        },
+        {
+            "name": "techno-celebes/basic-controller",
+            "version": "v1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/techno-celebes/basic-controller.git",
+                "reference": "5a3fac273b847f4c553eecec6e7e988a0bf6a119"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/techno-celebes/basic-controller/zipball/5a3fac273b847f4c553eecec6e7e988a0bf6a119",
+                "reference": "5a3fac273b847f4c553eecec6e7e988a0bf6a119",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TechnoCelebes\\BasicController\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "For easier controller development",
+            "support": {
+                "issues": "https://github.com/techno-celebes/basic-controller/issues",
+                "source": "https://github.com/techno-celebes/basic-controller/tree/v1.2.1"
+            },
+            "time": "2021-03-13T16:05:36+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
