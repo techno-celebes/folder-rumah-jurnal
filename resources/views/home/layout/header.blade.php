@@ -18,3 +18,18 @@
 		</div>
 	</div>
 </header>
+<div class="container-fluid breadcrumb-wrapper">
+	<div class="row">
+		<div class="col-12">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 breadcrumb">
+						<a href="#">Home</a>
+						<a href="#">What We Publish</a>
+						<span>Journal</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
