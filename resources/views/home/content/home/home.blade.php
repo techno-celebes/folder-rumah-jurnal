@@ -35,7 +35,7 @@
 							<a href="#" class="active">Journals</a>
 							<a href="#">Books</a>
 							<a href="#">Textbooks</a>
-							<a href="#">Cambridge Elements</a>
+							<a href="#">Elements</a>
 							<a href="#">Publishing partners</a>
 							<a href="#">Open access</a>
 						</div>

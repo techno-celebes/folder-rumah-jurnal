@@ -42,7 +42,7 @@
 						<a href="#">Our blog</a>
 						<a href="#">News</a>
 						<a href="#">Contact and help</a>
-						<a href="#">Cambridge Core legal notices</a>
+						<a href="#">Core legal notices</a>
 						<a href="#">Feedback</a>
 						<a href="#">Sitemap</a>
 					</div>
